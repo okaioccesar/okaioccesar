@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Olá, eu sou o Kaio Cesar
 
-<!--
-**okaioccesar/okaioccesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP e de Engenharia de Software na Faculdade Descomplica.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou construindo minha carreira como desenvolvedor de software. Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvimento web, bancos de dados, Git e boas práticas de desenvolvimento, sempre aplicando o que aprendo em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente
+📚 Estudando Análise e Desenvolvimento de Sistemas (FIAP)
+📚 Estudando Engenharia de Software (Faculdade Descomplica)
+💻 Desenvolvendo projetos para fortalecer meu portfólio
+🌱 Aprendendo desenvolvimento de software e tecnologias modernas
+🛠️ Tecnologias e Ferramentas
+HTML
+CSS
+JavaScript
+Git & GitHub
+Lógica de Programação
+
+Em breve: C#, .NET, SQL e Angular.
+
+🎯 Objetivos
+Conquistar uma oportunidade de estágio em Desenvolvimento de Software.
+Evoluir continuamente por meio de projetos e desafios.
+Compartilhar minha evolução através deste GitHub.
+
+📫 Vamos nos conectar!
+💼 LinkedIn: https://www.linkedin.com/in/okaioccesar/
+📧 E-mail: kaiocesareng18@gmail.com
