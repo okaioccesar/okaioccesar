@@ -1,28 +1,26 @@
-Olá, eu sou o Kaio Cesar
+Hello, I'm Kaio Cesar 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP e de Engenharia de Software na Faculdade Descomplica.
+I am a Systems Analysis and Development student at FIAP and a Software Engineering student at Faculdade Descomplica.
 
-Sou apaixonado por tecnologia e estou construindo minha carreira como desenvolvedor de software. Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvimento web, bancos de dados, Git e boas práticas de desenvolvimento, sempre aplicando o que aprendo em projetos práticos.
+I am passionate about technology and currently building my career as a software developer. I am deepening my knowledge of programming, web development, databases, Git, and software development best practices, always applying what I learn through hands-on projects.
 
-Atualmente
-Estudando Análise e Desenvolvimento de Sistemas (FIAP)
-Estudando Engenharia de Software (Faculdade Descomplica)
-Desenvolvendo projetos para fortalecer meu portfólio
-Aprendendo desenvolvimento de software e tecnologias modernas
-Tecnologias e Ferramentas
+Currently
+Studying Systems Analysis and Development (FIAP)
+Studying Software Engineering (Faculdade Descomplica)
+Developing projects to strengthen my portfolio
+Learning software development and modern technologies
+Technologies & Tools
 HTML
 CSS
 JavaScript
 Git & GitHub
-Lógica de Programação
+Programming Logic
+Coming soon: C#, .NET, SQL, and Angular
+Goals
+Earn an internship opportunity in Software Development
+Continuously improve through projects and challenges
+Share my learning journey and progress through this GitHub
+📫 Let's Connect!
 
-Em breve: C#, .NET, SQL e Angular.
-
-Objetivos
-Conquistar uma oportunidade de estágio em Desenvolvimento de Software.
-Evoluir continuamente por meio de projetos e desafios.
-Compartilhar minha evolução através deste GitHub.
-
-📫 Vamos nos conectar!
 💼 LinkedIn: https://www.linkedin.com/in/okaioccesar/
-📧 E-mail: kaiocesareng18@gmail.com
+📧 Email: kaiocesareng18@gmail.com
