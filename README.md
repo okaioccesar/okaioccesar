@@ -23,4 +23,4 @@ Share my learning journey and progress through this GitHub
 📫 Let's Connect!
 
 💼 LinkedIn: https://www.linkedin.com/in/okaioccesar/
-📧 Email: kaiocesareng18@gmail.com
+📧 Email: kaiossjc@gmail.com
